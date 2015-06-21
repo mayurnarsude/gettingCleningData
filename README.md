@@ -2,7 +2,7 @@
 ### Software Versions used
 Operating system: Microsoft Windows 8.1, R version 3.1.2
 
-#### R Script description for tidying up the Samsung smartphone data
+#### R Script _run_analysis.R_ description for tidying up the Samsung smartphone data
 * Checks if the required packages are installed, if not installs and loads them
  * Packages used: data.table, dplyr
 1. Merging the _training_ and _test_ data into a single data frame 
